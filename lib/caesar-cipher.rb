@@ -50,6 +50,7 @@ def caesar_cipher(message, shift)
 end
 
 puts caesar_cipher("Swzvowoxd k mkockb mszrob drkd dkuoc sx k cdbsxq kxn dro crspd pkmdyb kxn drox yedzedc dro wynspson cdbsxq:", -10)
+puts check_letters_to_shift("A", 5)
 
 
 
